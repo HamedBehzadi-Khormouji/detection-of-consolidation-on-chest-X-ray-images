@@ -11,3 +11,5 @@ See the paper: https://www.sciencedirect.com/science/article/abs/pii/S0169260719
 
 The Output of pre-processing phase:
 
+<img src="preproccesing.jpg" width=300 height=300>
+
