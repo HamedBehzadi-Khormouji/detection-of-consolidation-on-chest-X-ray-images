@@ -11,5 +11,12 @@ See the paper: https://www.sciencedirect.com/science/article/abs/pii/S0169260719
 
 The Output of pre-processing phase:
 
+Three reference images were shown in the above of figure. The reference image 1 and 2 are the images including consolidation and reference image 3 is a normal image. Also, the outputs of each pre-processing step were shown in the down side of figure. The rectangles show the regions of consolidation.
+
 <img src="preproccesing.jpg" width=300 height=300>
+
+
+
+The proposed Architecture:
+<img src="arch.jpg" width=600 height=300>
 
