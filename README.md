@@ -15,8 +15,15 @@ Three reference images were shown in the above of figure. The reference image 1 
 
 <img src="preproccesing.jpg" width=300 height=300>
 
-
-
 The proposed Architecture:
+
+
 <img src="arch.jpg" width=600 height=300>
 
+The Training Strategy:
+
+<img src="training_strategy.jpg" width=600 height=500>
+
+
+The output of model:
+<img src="output_1.png" width=500 height=300>
